@@ -19,7 +19,7 @@ This project is divided into 4 parts:
 
 2. Pre-processing: After the creation of the dataset, there are lot of features in our images e.g. color of the image, background, these are not required for the further processing. Moving forward with all these features can decrease the efficiency and accuracy of the model drastically. This can be done using preprocessing.py file.
 
-3. Model Training: Once the data is ready, the next important task is to train the model. We have decided to for Covolutional Neural Network (CNN) as it is known for its image classification capabilities. We have used 2-layer CNN architecture in order to improve the accuracy of the model. This can be done using model.py file.
+3. Model Training: Once the data is ready, the next important task is to train the model. We have decided to for Covolutional Neural Network (CNN) as it is known for its image classification capabilities. We have used 2-layer CNN architecture in order to improve the accuracy of the model. This can be done using models file.
 
 ![image](https://user-images.githubusercontent.com/48770985/180647049-3ddbba0c-3f2b-4ef5-87e5-338ccb675c4b.png)
 
