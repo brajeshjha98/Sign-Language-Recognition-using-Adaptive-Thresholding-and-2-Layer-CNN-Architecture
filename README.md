@@ -17,14 +17,18 @@ This project is divided into 4 parts:
 
 1. Input Data Creation: Since there is no any dataset available on different dataset repositories (e.g. UCI ML Repository, Kaggle, etc.), we decided to develop our own dataset. This can be done using input.py file.
 
+![image](https://user-images.githubusercontent.com/48770985/202864330-69bc3926-0778-4325-8afb-fb9c217dbf6d.png)
+
 2. Pre-processing: After the creation of the dataset, there are lot of features in our images e.g. color of the image, background, these are not required for the further processing. Moving forward with all these features can decrease the efficiency and accuracy of the model drastically. This can be done using preprocessing.py file.
+
+![image](https://user-images.githubusercontent.com/48770985/202864381-aa5a2063-9d75-4495-8656-399949b6e9e7.png)
 
 3. Model Training: Once the data is ready, the next important task is to train the model. We have decided to for Covolutional Neural Network (CNN) as it is known for its image classification capabilities. We have used 2-layer CNN architecture in order to improve the accuracy of the model. This can be done using models file.
 
 ![image](https://user-images.githubusercontent.com/48770985/180647049-3ddbba0c-3f2b-4ef5-87e5-338ccb675c4b.png)
 
 
-4. UI and Project Output: Finally user interface is developed using tkinter library of python and model predicted the expected output.
+4. UI and Project Output: Finally user interface is developed using tkinter library of python and model predicted the expected output. Additionally, Hunspell library is used to add the functionality to predict nearest word formation by coupling alphabets.
 
 ## Project Ouput
 
