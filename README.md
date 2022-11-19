@@ -1,5 +1,5 @@
 
-# Sign Language Recognition
+# Sign Language Recognition using Adaptive Thresholding and 2-Layer CNN Architecture
 This project two layers of CNN model classifier and predicts the meaning of sign gestures of 26 English alphabets with 95.7% accuracy. However, we can add more sign gestures to it and enhance its capability.
 
 ## Aim of the Project
