@@ -15,6 +15,9 @@ The project only requires readily available resources for its implementation, th
 This project is divided into 4 parts:
 ![image](https://user-images.githubusercontent.com/48770985/180646977-045157af-befa-4701-ada7-c1c8908a7222.png)
 
+![image](https://user-images.githubusercontent.com/48770985/202864586-a3b75332-b124-450b-90ce-1b8f7bbd97b0.png)
+
+
 1. Input Data Creation: Since there is no any dataset available on different dataset repositories (e.g. UCI ML Repository, Kaggle, etc.), we decided to develop our own dataset. This can be done using input.py file.
 
 ![image](https://user-images.githubusercontent.com/48770985/202864330-69bc3926-0778-4325-8afb-fb9c217dbf6d.png)
